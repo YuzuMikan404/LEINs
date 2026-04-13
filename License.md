@@ -8,7 +8,12 @@ Copyright (c) 2026 areteruhiro
 
 3. Redistribution of the software, in original or modified form, is not permitted without explicit written permission from the author.
 
-4. Commercial use, including selling, sublicensing, or distributing the software for profit, is prohibited without prior authorization.
+4. Commercial use by third parties, including selling, sublicensing, 
+or redistributing the software for profit, is prohibited without 
+prior written authorization from the author.
+
+The author retains the exclusive right to sell or license this 
+software commercially.
 
 5. The author reserves the right to revoke access to the software at any time.
 
